@@ -1,5 +1,7 @@
 DRAFT LICENSE.md
 
-Individual LICENSE.md Are Inside Individual Project Folders.
+This Directory Is For C++ Projects.
 
-Authorized Personnel Only - Gamma Group.
+The Individual Project Folders Contain Individual Project LICENSE.md.
+
+Authorized Personnel Only - Gamma Group Only.
